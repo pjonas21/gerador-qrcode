@@ -26,6 +26,11 @@ source ./venv/bin/activate
 
 ## Uso
 
+### Captura de tela do código 
+<div align="center">
+<img src="main_py.png" alt="Screenshot" width="500" height="550">
+</div>
+
 Para utilizar a aplicação, foi criada a função ```generate_qrcode(data, back_color, front_color, file_name)```, ela recebe alguns parâmetros:
 
 - ```data```: dado que será inserido como informação do QR code;
@@ -38,6 +43,11 @@ Depois de alterar essas informações, utilize o comando abaixo para iniciar o a
 ```bash
 python main.py
 ```
+
+### Resultado após execução do projeto 
+<div align="center">
+<img src="qrcode.png" alt="Screenshot" width="200" height="200">
+</div>
 
 ## Contribuições
 
