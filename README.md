@@ -38,10 +38,10 @@ Para utilizar a aplicação, foi criada a função ```generate_qrcode(data, back
 - ```front_color```: aqui será passada uma tupla, com o código RGB da cor do QR code gerado;
 - ```file_name```: aqui será passado o nome do arquivo do QR code gerado.
 
-Depois de alterar essas informações, utilize o comando abaixo para iniciar o arquivo ```main.py```:
+Depois de alterar essas informações, utilize o comando abaixo para iniciar o arquivo ```app.py```:
 
 ```bash
-python main.py
+python app.py
 ```
 
 ### Resultado após execução do projeto 
